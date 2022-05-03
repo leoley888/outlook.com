@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures TV Remote settings</string>
+			<key>PayloadDisplayName</key>
+			<string>TV Remote settings</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.tvremote.E8AEFB4E-AE83-4020-BCDE-8C7FED50B244</string>
+			<key>PayloadType</key>
+			<string>com.apple.tvremote</string>
+			<key>PayloadUUID</key>
+			<string>E8AEFB4E-AE83-4020-BCDE-8C7FED50B244</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>Xml888@88</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.B9974DB0-1834-49B9-9547-C81370E4990A</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>B9974DB0-1834-49B9-9547-C81370E4990A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyServer</key>
+			<string>192.168.2.115</string>
+			<key>ProxyServerPort</key>
+			<integer>8899</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>SSID_STR</key>
+			<string>毛驴xiao wu_5G</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>hhhh02</string>
+	<key>PayloadIdentifier</key>
+	<string>HuideMacBook-Air.69907173-95E7-41E4-B51E-C7CF55AF5275</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D5A992B5-D0AF-419F-84F9-30090DA8EDB2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
